@@ -32,7 +32,7 @@
     "repositories": {
         "0": {
             "type": "vcs",
-            "url": "git@github.com:axibx/php-wos-spi-sdk.git"
+            "url": "git@github.com:axibx/php-wos-msg-sdk.git"
         },
         "packagist": {
             "type": "composer",
