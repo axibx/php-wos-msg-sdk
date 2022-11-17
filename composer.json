@@ -1,8 +1,8 @@
 {
-    "name": "weimob-cloud/php-wos-spi-sdk",
+    "name": "weimob-cloud/php-wos-msg-sdk",
     "type": "library",
     "license": "MIT",
-    "description": "WeimobCloud PHP Wos Spi Sdk",
+    "description": "WeimobCloud PHP Wos Msg Sdk",
     "authors": [
         {
             "name": "junwei.ye",
